@@ -1,0 +1,128 @@
+body{
+    background-color: black;
+}
+ul {
+    list-style: none;
+  }
+  
+  a {
+     text-decoration: none; 
+  }
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.cabecalho .logozelda {
+    background-color: black;
+    width: 65px;
+}
+
+.cabecalho nav li a{
+    background-color:rgb(12, 209, 12);
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 10px 20px;
+    border-radius: 50px;
+    transition: 0.2s
+}
+.cabecalho nav li a:hover {
+    background-color:#ca0405;
+}
+
+.imagem-titulo{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    max-width: 500px;
+    margin: 0 auto
+}
+
+.container{
+    color: rgb(12, 209, 12);
+    background-color:black;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    margin:0 auto;
+    padding: 30px;
+    max-width: 500px;
+}
+.container img{
+    width: 60px;
+    align-items: center;
+}
+.link{
+    color: white;
+    font: italic;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    max-width: 1440px;
+    margin: 0 auto;
+    
+}
+
+.gano{
+    color: white;
+    font: italic;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    max-width: 1440px;
+    margin: 0 auto;
+    
+}
+
+.skul{
+    color: white;
+    font: italic;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    max-width: 1440px;
+    margin: 0 auto;
+    
+}
+
+.darunia{
+    color: white;
+    font: italic;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.princesa{
+    color: white;
+    font: italic;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.navi{
+    color: white;
+    font: italic;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.princesaZelda{
+    color: white;
+    font: italic;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    max-width: 1440px;
+    margin: 0 auto; 
+}
